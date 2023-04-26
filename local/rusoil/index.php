@@ -12,7 +12,6 @@ $APPLICATION->IncludeComponent(
 	".default", 
 	array(
 		"EMAIL_TO" => "webmaster@rusoil72.ru",
-		"COMPONENT_TEMPLATE" => ".default"
 	),
 	false
 );
